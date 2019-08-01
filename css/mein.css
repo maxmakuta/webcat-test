@@ -1,0 +1,193 @@
+
+body {
+      font-family: 'Roboto', sans-serif;
+      width:100%;
+    }
+
+h1, h5 {
+  font-weight: 900;
+}
+
+.ref {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #15449D;
+}
+
+
+
+.pl5 {
+  padding-left: 5px;
+}
+.pl20 {
+  margin-left: 20px;
+}
+.pl100 {
+  padding-left: 100px;
+}
+.pl180 {
+  margin-left: 80%;
+}
+.pr20 {
+  margin-right: 20px;
+}
+.pr160 {
+  margin-right: 160px;
+}
+.pad10 {
+padding: 10px;
+}
+.pd0 {
+  padding: 0;
+}
+.pd60 {
+  padding: 60px;
+}
+.pb60 {
+  padding-bottom: 60px;
+}
+.pt60 {
+  padding-top: 60px;
+}
+.pt80 {
+  padding-top: 80px;
+} 
+.pt35 {
+  padding-top: 35px;
+} 
+.mr0 {
+  margin-right: 0;
+}
+.ml80 {
+  margin-left: 80px;
+}
+.ml150 {
+  margin-left: 150px;
+}
+.mt130 {
+  margin-top: 130px;
+}
+.mb60 {
+  margin-bottom: 60px;
+}
+.mb20 {
+   margin-bottom: 20px;
+}
+.mb80 {
+  margin-bottom: 80px;
+}
+.mb164 {
+  margin-bottom: 164px;
+}
+.mb172 {
+   margin-bottom: 172px;
+}
+.mb228 {
+  margin-bottom: 228px;
+}
+.mb800 {
+  margin-bottom: 800px;
+}
+.rgb {
+  background-color: lightgrey;
+}
+a.linkDecor {
+  text-decoration: none;
+}
+.navbar {
+background: url(../img/first-bg.png) no-repeat;
+ 
+ background-size: 100%;
+padding: 0;
+}
+
+.bg {
+ width: 80%;
+padding-left: 0;
+margin-left: 0;
+  background-image: url(../img/group.png);
+
+background-position: left bottom !important; 
+    background-repeat: no-repeat; 
+}
+
+.text {
+  font-size: 10px;
+}
+
+.btnHeight {
+  height: 240px !important;
+} 
+
+.card-im {
+   background-color: #15449D ;
+    height: 210px !important;
+    text-align: center;
+     vertical-align: bottom;
+}
+.card-tit {
+ color: white;
+ font-size:11pt;
+ text-align: left;
+
+
+}
+.car-color:hover {
+ color: red;
+
+}
+
+.decision {
+  color: #15449D;
+}
+
+.testimonials {
+  background-image: url(../img/Fon2.png);
+}
+
+.works-carousel .owl-nav {
+  display: flex;
+  margin-top: -50px;
+  position: relative;
+
+}
+
+.works-carousel .owl-prev {
+  margin: 0px !important;
+  
+}
+
+.works-carousel .owl-next {
+  margin: 0px !important;
+  
+}
+
+@media screen and (max-width: 1200px) {
+  .navbar  {
+    background: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .rgbw  {
+    color: black !important; 
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .tevDiv  {
+    display: none; 
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .sm0  {
+    margin: 0;
+    padding: 10px; 
+  }
+}
+
