@@ -62,6 +62,9 @@ padding: 10px;
 .mr0 {
   margin-right: 0;
 }
+.ml5 {
+  margin-left: 5px;
+}
 .ml80 {
   margin-left: 80px;
 }
@@ -76,6 +79,7 @@ padding: 10px;
 }
 .mb20 {
    margin-bottom: 20px;
+
 }
 .mb80 {
   margin-bottom: 80px;
@@ -91,6 +95,8 @@ padding: 10px;
 }
 .mb800 {
   margin-bottom: 800px;
+  width:20%; 
+  
 }
 .rgb {
   background-color: lightgrey;
@@ -109,6 +115,7 @@ padding: 0;
  width: 80%;
 padding-left: 0;
 margin-left: 0;
+margin-right: 0;
   background-image: url(../img/group.png);
 
 background-position: left bottom !important; 
@@ -172,11 +179,11 @@ background-position: left bottom !important;
   }
 }
 
-@media screen and (max-width: 1200px) {
+/*@media screen and (max-width: 1200px) {
   .rgbw  {
     color: black !important; 
   }
-}
+}*/
 
 @media screen and (max-width: 1000px) {
   .tevDiv  {
